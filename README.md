@@ -30,11 +30,9 @@ The aim of this project is to create a program listing application page that ena
 
 * **Javascript** - Javascript was used to update, filter, sort and create actions on the application.
 
-* **SASS**, **CSS** - SASS (Syntactically Awesome Style Sheets) takes the advantage of variables, maps, mixins, and functions to help build faster projects. Bootstrap includes a handful of Sass maps, key value pairs that make it easier to generate families of related CSS. SASS, CSS and Boostrap5 enable this project to be responsive and the ability to create styling variables that can be used in different parts of the page.
-_**Note**_:_In order to view the styling applied on this application, ensure you have SASS installed via npm._
+* **SASS**, **CSS**, **Bootstrap5** - SASS (Syntactically Awesome Style Sheets) takes the advantage of variables, maps, mixins, and functions to help build faster projects. Bootstrap includes a handful of Sass maps, key value pairs that make it easier to generate families of related CSS. SASS, CSS and Boostrap5 enabled this project to be responsive and also created the ability to create styling variables that can be used in different parts of the page.
 
-
-* **Bootstrap5** - Bootstrap is one of the most popular frameworks for building responsive, mobile-first sites, with jsDelivr and a template starter page. For this project bootstrap 5 was used for the styling.
+_**Note**_:_In order to view the styling applied on this application, ensure you have SASS installed via node ()._This will compile your SASS into CSS after cloning the project
 
 
 ## Features
