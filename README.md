@@ -28,7 +28,7 @@ The aim of this project is to create a program listing application page that ena
 ![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-239120?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-* **Javascript** - Javascript was used to update, filter, sort and create actions on the webpage.
+* **Javascript** - Javascript was used to update, filter, sort and create actions on the application.
 
 * **SASS**, **CSS** - SASS (Syntactically Awesome Style Sheets) takes the advantage of variables, maps, mixins, and functions to help build faster projects. Bootstrap includes a handful of Sass maps, key value pairs that make it easier to generate families of related CSS. SASS, CSS and Boostrap5 enable this project to be responsive and the ability to create styling variables that can be used in different parts of the page.
 _**Note**_:_In order to view the styling applied on this application, ensure you have SASS installed via npm._
