@@ -1,0 +1,70 @@
+// list of variables
+$primary: #dfdfde;
+$color: #ffffff;
+$background-color: #c21010;
+$font-family: "Titillium Web", "Open Sans", Arial, sans-serif;
+
+// fonts are arranged in alphabetical order
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+  background-color: $background-color;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: $color;
+}
+
+.form-select {
+  border-radius: 15px !important;
+}
+
+.image-container {
+  width: 50px;
+  float: left;
+  background-color: $background-color;
+  display: flex;
+  justify-content: left;
+  padding: 3px;
+  color: $color;
+}
+
+.image-wrapper {
+  background-color: $background-color;
+  color: $color;
+  padding: 8px;
+}
+
+.table tbody,
+p,
+.form-select {
+  font-family: $font-family;
+}
+
+.table thead tr {
+  background-color: $background-color;
+  color: $color;
+  font-family: $font-family;
+}
+
+.table-wrapper {
+  height: 100%;
+  padding-bottom: 30px;
+}
+
+.program-description {
+  font-family: $font-family;
+  font-style: italic;
+}
+
+.program-title {
+  font-family: $font-family;
+  font-weight: 700;
+}
+
+//imported font family and boostrap scss module
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Titillium+Web:wght@400;500;700&display=swap");

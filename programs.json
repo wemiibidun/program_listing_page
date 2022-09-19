@@ -1,0 +1,87 @@
+ {
+    "programs": [
+        {
+            "title": "Information Technology",
+            "deliveryMethod": [
+                {
+                    "delivery": "Online",
+                    "status": "Open"
+                },
+                {
+                    "delivery": "On-Campus",
+                    "status": "Waitlisted"
+                }
+
+            ]
+        },
+        {
+            "title": "Accounting",
+            "deliveryMethod": [
+                {
+                    "delivery": "Online",
+                    "status": "Open"
+                },
+                {
+                    "delivery": "On-Campus",
+                    "status": "Closed"
+                }
+
+            ]
+        },
+        {
+            "title": "Carpenter",
+            "deliveryMethod": [
+                {
+                    "delivery": "On-Campus",
+                    "status": "Closed"
+                }
+
+            ]
+        },
+        {
+            "title": "Pharmacy Assistant",
+            "deliveryMethod": [
+                {
+                    "delivery": "On-Campus",
+                    "status": "Waitlisted"
+                }
+
+            ]
+        },
+        {
+            "title": "Business Administration",
+            "deliveryMethod": [
+                {
+                    "delivery": "Online",
+                    "status": "Open"
+                },
+                {
+                    "delivery": "On-Campus",
+                    "status": "Open"
+                }
+
+            ]
+        },
+        {
+            "title": "Baking and Pastry Arts",
+            "deliveryMethod": [
+                {
+                    "delivery": "On-Campus",
+                    "status": "Waitlisted"
+                }
+
+            ]
+        },
+        {
+            "title": "Architectural Technologies",
+            "deliveryMethod": [
+                {
+                    "delivery": "Online",
+                    "status": "Open"
+                }
+
+            ]
+        }
+
+    ]
+}
