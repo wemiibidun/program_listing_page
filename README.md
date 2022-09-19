@@ -30,6 +30,12 @@ The aim of this project is to create a program listing application page that ena
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-239120?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 * **CSS** - CSS stands for Cascading Style Sheet. An external App.css style sheet was created to style the pages of the web page. For this project both inline and external stylesheets were used.
+
+* **CSS** - CSS stands for Cascading Style Sheet. An external App.css style sheet was created to style the pages of the web page. For this project both inline and external stylesheets were used.
+
+* **CSS** - CSS stands for Cascading Style Sheet. An external App.css style sheet was created to style the pages of the web page. For this project both inline and external stylesheets were used.
+
+* **CSS** - CSS stands for Cascading Style Sheet. An external App.css style sheet was created to style the pages of the web page. For this project both inline and external stylesheets were used.
 * * **CSS** - CSS stands for Cascading Style Sheet. An external App.css style sheet was created to style the pages of the web page. For this project both inline and external stylesheets were used.
 * * **CSS** - CSS stands for Cascading Style Sheet. An external App.css style sheet was created to style the pages of the web page. For this project both inline and external stylesheets were used.
 * **React Bootstrap** - Another stylesheet used was react boostrap which is built with both react and bootstrap. This was used for styling of some call to actions and elements
