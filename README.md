@@ -19,7 +19,7 @@ The aim of this project is to create a program listing application page that ena
 
 
 ## Screenshot
-![Homepage image](https://github.com/wemiibidun/well_management_system/blob/main/homepage_screenshot.png)
+![Homepage image](https://github.com/wemiibidun/program_listing_page/blob/main/Screen%20Shot.png)
 
 
 ## Technologies (Language, Library and Framework)
