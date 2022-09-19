@@ -24,9 +24,8 @@ The aim of this project is to create a program listing application page that ena
 
 ## Technologies (Language, Library and Framework)
 ![Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-239120?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-239120?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 * **CSS** - CSS stands for Cascading Style Sheet. An external App.css style sheet was created to style the pages of the web page. For this project both inline and external stylesheets were used.
