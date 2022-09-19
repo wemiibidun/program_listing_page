@@ -3,7 +3,7 @@
 
 
 # Program Listing Page
-This project was created with HTML, SCSS, Javascript and  styled with Bootstrap
+This responsive web application was created with HTML, SCSS, Javascript and Bootstrap5
 
 ## Table of contents
 * [Introduction](#introduction)
@@ -28,13 +28,11 @@ The aim of this project is to create a program listing application page that ena
 ![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-239120?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-* **Javascript** - CSS stands for Cascading Style Sheet. An external App.css style sheet was created to style the pages of the web page. For this project both inline and external stylesheets were used.
+* **Javascript** - Javascript was used to update, filter, sort and create actions on the webpage.
 
-* **SASS** - CSS stands for Cascading Style Sheet. An external App.css style sheet was created to style the pages of the web page. For this project both inline and external stylesheets were used.
+* **SASS**, **CSS** - SASS (Syntactically Awesome Style Sheets) takes the advantage of variables, maps, mixins, and functions to help build faster projects. Bootstrap includes a handful of Sass maps, key value pairs that make it easier to generate families of related CSS. SASS, CSS and Boostrap5 enable this project to be responsive and the ability to create styling variables that can be used in different parts of the page.
 
-* **CSS** - CSS stands for Cascading Style Sheet. An external App.css style sheet was created to style the pages of the web page. For this project both inline and external stylesheets were used.
-
-* **Bootstrap5** - CSS stands for Cascading Style Sheet. An external App.css style sheet was created to style the pages of the web page. For this project both inline and external stylesheets were used.
+* **Bootstrap5** - Bootstrap is one of the most popular frameworks for building responsive, mobile-first sites, with jsDelivr and a template starter page. For this project bootstrap 5 was used for the styling.
 
 
 ## Features
