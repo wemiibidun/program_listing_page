@@ -1,4 +1,4 @@
-![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/weather_app2_react)
+![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/program_listing_page)
 ![GitLab Languages](https://img.shields.io/github/languages/count/wemiibidun/program_listing_page)
 
 
