@@ -32,7 +32,7 @@ The aim of this project is to create a program listing application page that ena
 
 * **SASS**, **CSS**, **Bootstrap5** - SASS (Syntactically Awesome Style Sheets) takes the advantage of variables, maps, mixins, and functions to help build faster projects. Bootstrap includes a handful of Sass maps, key value pairs that make it easier to generate families of related CSS. SASS, CSS and Boostrap5 enabled this project to be responsive and also created the ability to create styling variables that can be used in different parts of the page.
 
-_**Note**_:_In order to view the styling applied on this application, ensure you have SASS installed via node ##### `npm install --save node sass`._This will compile your SASS into CSS after cloning the project
+_**Note**_:_In order to view the styling applied on this application, ensure you have SASS installed via node (`npm install --save node sass`)._This will compile your SASS into CSS after cloning the project
 
 
 ## Features
